@@ -1,0 +1,2 @@
+Website: https://beplt.github.io/Midterm-Examination/
+Repository: https://github.com/beplt/Midterm-Examination.git
